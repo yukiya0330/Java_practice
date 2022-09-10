@@ -1,6 +1,6 @@
 public class question_7_1 {
 	public static void main(String[] args) {
-		int val = 15;
+		int val = 12;
 		if (val <= 5){
 			System.out.println("とても近いです");
 		} else if (val >= 5 && val <= 10) {
